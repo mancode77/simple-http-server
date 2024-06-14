@@ -25,7 +25,7 @@ Sebelum menggunakan server ini, pastikan Anda memiliki hal berikut:
 Clone repositori ini ke mesin lokal Anda:
 
 ```bash
-git clone https://github.com/nama-repo-anda/http-server-cpp.git
+git clone https://github.com/mancode77/simple-http-server.git
 cd http-server-cpp
 ```
 
@@ -89,6 +89,6 @@ Kontribusi dipersilakan! Jika Anda menemukan masalah atau memiliki saran untuk p
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
+Proyek ini dilisensikan di bawah Lisensi MIT.
 
 Dokumentasi ini sekarang lebih terstruktur dan membantu pengguna untuk memahami langkah-langkah instalasi, penggunaan, serta cara menambahkan rute dan handler baru ke server HTTP berbasis C++ ini. Pastikan untuk mengganti bagian yang sesuai dengan detail proyek Anda sendiri sebelum menggunakan atau mendistribusikan.
