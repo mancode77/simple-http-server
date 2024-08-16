@@ -92,3 +92,5 @@ Kontribusi dipersilakan! Jika Anda menemukan masalah atau memiliki saran untuk p
 Proyek ini dilisensikan di bawah Lisensi MIT.
 
 Dokumentasi ini sekarang lebih terstruktur dan membantu pengguna untuk memahami langkah-langkah instalasi, penggunaan, serta cara menambahkan rute dan handler baru ke server HTTP berbasis C++ ini. Pastikan untuk mengganti bagian yang sesuai dengan detail proyek Anda sendiri sebelum menggunakan atau mendistribusikan.
+
+
