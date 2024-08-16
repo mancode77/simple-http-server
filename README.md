@@ -1,4 +1,4 @@
-# Simple HTTP Server in C++
+# Simple HTTP Server di C++
 
 Implementasi sederhana dari HTTP server menggunakan C++ untuk menangani permintaan HTTP dasar dan routing menggunakan thread dan soket.
 
